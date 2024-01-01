@@ -1,0 +1,14 @@
+apache-airflow==2.7.3
+dill
+fastapi
+imblearn
+pandas
+pendulum
+pymongo
+python-dotenv
+python-multipart
+PyYAML
+scikit-learn
+uvicorn
+xgboost
+-e .

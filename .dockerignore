@@ -1,0 +1,13 @@
+*.egg-info/*
+*.ipynb
+*.csv
+.gitignore
+venv/*
+artifact
+flowcharts
+inference_artifact
+logs
+saved_models
+get_data.py
+LICENSE
+README.md

@@ -1,0 +1,14 @@
+artifact
+build
+dist
+env/*
+flowcharts
+inference_artifact
+logs
+saved_models
+venv/*
+*.egg-info/*
+.git
+.github
+.gitignore
+__pycache__/
